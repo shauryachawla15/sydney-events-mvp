@@ -1,4 +1,4 @@
-# Python Web Scraper & Streamlit App
+# Python Web Scraper & Streamlit Scrapper & Streamlit App
 
 This project is a simple Python-based web scraping application with a Streamlit web interface.  
 It demonstrates how to scrape data from websites and display it interactively using Streamlit.
@@ -40,3 +40,30 @@ It demonstrates how to scrape data from websites and display it interactively us
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
+```
+### 2️⃣ Create a virtual environment
+```bash
+python -m venv venv
+```
+### 3️⃣ Activate the virtual environment
+```bash
+venv\Scripts\activate
+```
+Mac / Linux
+```bash
+source venv/bin/activate
+```
+### 4️⃣ Install dependencies
+```bash
+pip install -r requirements.txt
+```
+### ▶️ Run the Application
+```bash
+streamlit run app.py
+```
+👨‍💻 Author
+---
+Shaurya Chawla
+--
+Python • Web Scraping • Streamlit
+  
